@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://roux2j.github.io/csb-klly8x/static/css/main.a6976db8.chunk.css",
+    "main.js": "https://roux2j.github.io/csb-klly8x/static/js/main.1635a590.chunk.js",
+    "main.js.map": "https://roux2j.github.io/csb-klly8x/static/js/main.1635a590.chunk.js.map",
+    "runtime-main.js": "https://roux2j.github.io/csb-klly8x/static/js/runtime-main.fb4c164a.js",
+    "runtime-main.js.map": "https://roux2j.github.io/csb-klly8x/static/js/runtime-main.fb4c164a.js.map",
+    "static/css/2.b0635a00.chunk.css": "https://roux2j.github.io/csb-klly8x/static/css/2.b0635a00.chunk.css",
+    "static/js/2.70a139d5.chunk.js": "https://roux2j.github.io/csb-klly8x/static/js/2.70a139d5.chunk.js",
+    "static/js/2.70a139d5.chunk.js.map": "https://roux2j.github.io/csb-klly8x/static/js/2.70a139d5.chunk.js.map",
+    "index.html": "https://roux2j.github.io/csb-klly8x/index.html",
+    "static/css/2.b0635a00.chunk.css.map": "https://roux2j.github.io/csb-klly8x/static/css/2.b0635a00.chunk.css.map",
+    "static/css/main.a6976db8.chunk.css.map": "https://roux2j.github.io/csb-klly8x/static/css/main.a6976db8.chunk.css.map",
+    "static/js/2.70a139d5.chunk.js.LICENSE.txt": "https://roux2j.github.io/csb-klly8x/static/js/2.70a139d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4c164a.js",
+    "static/css/2.b0635a00.chunk.css",
+    "static/js/2.70a139d5.chunk.js",
+    "static/css/main.a6976db8.chunk.css",
+    "static/js/main.1635a590.chunk.js"
+  ]
+}
